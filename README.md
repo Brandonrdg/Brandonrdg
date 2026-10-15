@@ -5,9 +5,9 @@
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/Brandonrdg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Banner del perfil de Brandon Rodríguez">
+   <img src="assets/profile.svg"
+     width="960"
+     alt="Perfil de Brandon Rodríguez">
   </picture>
 </a>
 
