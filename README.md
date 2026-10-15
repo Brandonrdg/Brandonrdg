@@ -45,23 +45,13 @@
 
 ---
 
-## `$ kubectl get signals --all-namespaces`
+## `$ ls projects/`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades DevOps">
-  </picture>&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes y scripting">
-  </picture>
+  <img src="assets/projects.svg"
+       width="960"
+       alt="Proyectos de Brandon: FayeOS, VyB e Inventory Manager">
 </p>
-
-<p align="center"><sub><code>signals: devops_skill_radar · language_stack_radar · status: healthy</code></sub></p>
-
 ---
 
 <!-- SOCIALS -->
