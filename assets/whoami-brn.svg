@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1040" height="500" viewBox="0 0 1040 500" role="img" aria-labelledby="title desc">
   <title id="title">Brandon Rodríguez — perfil</title>
-  <desc id="desc">Tarjeta de perfil negra con tipografía de terminal, proyectos de Brandon y un indicador animado con el texto Loading Future. En la esquina superior izquierda se muestra un ping decorativo fijo de 300, con tres barras ascendentes: la pequeña roja y las otras dos grises. Perfil iniciado desde macu-dev.</desc>
   <!-- Perfil iniciado desde https://github.com/macu-dev/macu-dev -->
   <!-- La señal es decorativa y su valor es fijo. -->
   <defs>
@@ -85,7 +84,7 @@
 
   <g font-family="'DejaVu Sans Mono',Consolas,monospace">
     <text x="844" y="323" text-anchor="middle" fill="#c2c2cc" font-size="15" letter-spacing="2">LOADING FUTURE</text>
-    <text x="844" y="426" text-anchor="middle" fill="#777783" font-size="12">Godot · videojuegos · café</text>
+    <text x="844" y="426" text-anchor="middle" fill="#777783" font-size="12">Gym · Videojuegos · Musica</text>
   </g>
 
   <path d="M32 450H1008" stroke="#232329"/>
