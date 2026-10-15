@@ -43,7 +43,7 @@
 
   </g>
   <g transform="translate(0 400)">
-<a xmlns="http://www.w3.org/2000/svg" href="https://www.instagram.com/brandonrdg_/" aria-label="Visitar el Instagram de brandonrdg_">
+<a xmlns="http://www.w3.org/2000/svg" aria-label="Visitar el Instagram de brandonrdg_">
     <g stroke="#ececf0" fill="none" stroke-width="2.5">
       <rect x="33" y="25" width="30" height="30" rx="8" />
       <circle cx="48" cy="40" r="7" />
@@ -51,9 +51,7 @@
     <circle cx="57" cy="31" r="2" fill="#ececf0" />
     <text x="80" y="49" fill="#ececf0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="22" font-weight="bold">Instagram</text>
     <text x="32" y="80" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">@brandonrdg_</text>
-    <rect x="806" y="32" width="202" height="42" rx="5" fill="#0b140e" stroke="#38573f" />
-    <text x="893" y="58" text-anchor="middle" fill="#bcd7c0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Ver perfil</text>
-    <path d="M968 59L980 47M970 47H980V57" fill="none" stroke="#74d982" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    
   </a>
 
   </g>
