@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="500" viewBox="0 0 1040 500" role="img" aria-labelledby="title desc">
+  <title id="title">Brandon Rodríguez — perfil</title>
+  <desc id="desc">Tarjeta de perfil negra con tipografía de terminal, proyectos de Brandon y un indicador animado con el texto Loading Future. En la esquina superior izquierda se muestra un ping decorativo fijo de 300, con tres barras ascendentes: la pequeña roja y las otras dos grises. Perfil iniciado desde macu-dev.</desc>
+  <!-- Perfil iniciado desde https://github.com/macu-dev/macu-dev -->
+  <!-- La señal es decorativa y su valor es fijo. -->
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#0d0d0f"/>
+      <stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <clipPath id="panel"><rect x="684" y="116" width="320" height="288" rx="2"/></clipPath>
+  </defs>
+  <rect width="1040" height="500" rx="14" fill="#050506"/>
+  <rect x="1" y="1" width="1038" height="498" rx="13" fill="none" stroke="#2d2d32"/>
+  <path d="M14 1H1026Q1039 1 1039 14V57H1V14Q1 1 14 1Z" fill="#0d0d0f"/>
+  <path d="M1 57H1039" stroke="#25252b"/>
+
+  <!-- Tres barras con una base común: alturas 7, 14 y 21. -->
+  <g id="ping" transform="translate(12 10) scale(0.65)" role="img" aria-label="300, señal baja: primera barra roja, segunda y tercera grises">
+    <text x="28" y="38" fill="#ff4f59" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" font-weight="bold">300</text>
+    <rect x="80" y="33" width="6" height="7" rx="1" fill="#ff4f59"/>
+    <rect x="91" y="26" width="6" height="14" rx="1" fill="#45454d"/>
+    <rect x="102" y="19" width="6" height="21" rx="1" fill="#45454d"/>
+  </g>
+  <text x="520" y="35" text-anchor="middle" fill="#b9b9c1" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">Brandonrdg@github: ~</text>
+  <text x="1010" y="35" text-anchor="end" fill="#73737e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">PROFILE / 01</text>
+
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="32" y="101" fill="#74d982" font-size="15">❯ whoami</text>
+  </g>
+  <text x="30" y="158" fill="#f0f0f3" font-family="'Segoe UI','DejaVu Sans',Arial,sans-serif" font-size="40" font-weight="bold" letter-spacing="-1.4">Brandon Rodríguez<tspan fill="#74d982">_</tspan></text>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="32" y="191" fill="#b9b9c1" font-size="15">Estudiante de Ingeniería en Sistemas</text>
+    <text x="32" y="219" fill="#81818c" font-size="13">Costa Rica · C# / .NET / WPF / SQLite</text>
+    <path d="M32 245H620" stroke="#232329"/>
+
+    <text x="32" y="278" fill="#74d982" font-size="15">❯ ls projects/</text>
+    <text x="32" y="316" fill="#646470" font-size="12">01</text>
+    <text x="70" y="316" fill="#ececf0" font-size="15">FayeOS</text>
+    <text x="302" y="316" fill="#92929e" font-size="13">C# / WPF</text>
+    <text x="32" y="349" fill="#646470" font-size="12">02</text>
+    <text x="70" y="349" fill="#ececf0" font-size="15">VyB</text>
+    <text x="302" y="349" fill="#92929e" font-size="13">ESP32 / nanoFramework</text>
+    <text x="32" y="382" fill="#646470" font-size="12">03</text>
+    <text x="70" y="382" fill="#ececf0" font-size="15">Inventory Manager</text>
+    <text x="302" y="382" fill="#92929e" font-size="13">C# / SQLite</text>
+
+    <text x="32" y="427" fill="#81818c" font-size="12">code(); <tspan fill="#d5d5dc">play();</tspan> sleep();</text>
+  </g>
+
+  <path d="M652 87V437" stroke="#232329"/>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="684" y="102" fill="#74d982" font-size="14" letter-spacing="2">Hello World.</text>
+    <text x="1004" y="103" text-anchor="end" fill="#6f6f7a" font-size="19">&lt;/&gt;</text>
+  </g>
+
+  <rect x="684" y="116" width="320" height="288" fill="url(#ink)"/>
+  <!-- Detalles de código discretos, dibujados como texto SVG editable. -->
+  <g clip-path="url(#panel)" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#39764b">
+    <text x="697" y="144" opacity=".65">0<tspan x="697" dy="23">1</tspan><tspan x="697" dy="23">0</tspan><tspan x="697" dy="23">1</tspan><tspan x="697" dy="23">0</tspan><tspan x="697" dy="23">0</tspan><tspan x="697" dy="23">1</tspan><tspan x="697" dy="23">0</tspan></text>
+    <text x="721" y="192" opacity=".35">1<tspan x="721" dy="23">0</tspan><tspan x="721" dy="23">1</tspan><tspan x="721" dy="23">1</tspan><tspan x="721" dy="23">0</tspan><tspan x="721" dy="23">0</tspan><tspan x="721" dy="23">1</tspan></text>
+    <text x="746" y="130" opacity=".22">0<tspan x="746" dy="23">1</tspan><tspan x="746" dy="23">0</tspan><tspan x="746" dy="23">0</tspan><tspan x="746" dy="23">1</tspan></text>
+    <text x="948" y="165" opacity=".38">1<tspan x="948" dy="23">0</tspan><tspan x="948" dy="23">1</tspan><tspan x="948" dy="23">0</tspan><tspan x="948" dy="23">0</tspan><tspan x="948" dy="23">1</tspan><tspan x="948" dy="23">0</tspan><tspan x="948" dy="23">1</tspan></text>
+    <text x="978" y="220" opacity=".58">0<tspan x="978" dy="23">1</tspan><tspan x="978" dy="23">1</tspan><tspan x="978" dy="23">0</tspan><tspan x="978" dy="23">1</tspan><tspan x="978" dy="23">0</tspan></text>
+  </g>
+
+  <!-- Indicador de carga: gráfico vectorial animado. -->
+  <g transform="translate(844 238)" role="img" aria-label="Cargando">
+    <g>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity="1"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".14" transform="rotate(30)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".20" transform="rotate(60)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".27" transform="rotate(90)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".34" transform="rotate(120)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".41" transform="rotate(150)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".48" transform="rotate(180)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".56" transform="rotate(210)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".65" transform="rotate(240)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".74" transform="rotate(270)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".83" transform="rotate(300)"/>
+      <rect x="-3" y="-49" width="6" height="15" rx="3" fill="#eeeeF2" opacity=".92" transform="rotate(330)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="844" y="323" text-anchor="middle" fill="#c2c2cc" font-size="15" letter-spacing="2">LOADING FUTURE</text>
+    <text x="844" y="426" text-anchor="middle" fill="#777783" font-size="12">Godot · videojuegos · café</text>
+  </g>
+
+  <path d="M32 450H1008" stroke="#232329"/>
+  <text x="32" y="479" fill="#8f8f9a" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">Brandonrdg:~$ <tspan fill="#74d982">_</tspan></text>
+  <text x="1008" y="479" text-anchor="end" fill="#777783" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10">Base del perfil: @macu-dev</text>
+</svg>
