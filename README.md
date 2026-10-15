@@ -1,21 +1,23 @@
+<!-- Diseño original: https:github.com/macu-dev/macu-dev -->
+<!-- Perfil personalizado para Brandonrdg -->
 <div align="center">
 
 <!-- LOCAL CITY-POP BANNER -->
-<a href="https://github.com/macu-dev">
+<a href="https://github.com/Brandonrdg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de María Claudia">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Banner del perfil de Brandon Rodríguez">
   </picture>
 </a>
 
 <br>
 
-<a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+<a href="https://github.com/Brandonrdg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Brandon+Rodriguez%3BEstudiante+de+Ingenieria+en+Sistemas%3BC%23+%7C+.NET+%7C+Desarrollo+de+Software%3BVideojuegos+-+Tecnologia+-+Cafe" alt="Presentación animada de Brandon Rodríguez">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=macu-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=Brandonrdg&amp;style=flat&amp;color=f78ca0&amp;label=profile+views" alt="Visitas al perfil">
 
 </div>
 
@@ -24,7 +26,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
+  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop de presentación">
 </p>
 
 <br>
@@ -36,7 +38,7 @@
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>Brandonrdg:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
@@ -113,17 +115,8 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/diario_devops">
-  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/@maraclaudiaprezescalante">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mcperezes/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/macu-dev">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
+<a href="https://github.com/Brandonrdg">
+  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&amp;logo=github&amp;logoColor=1a1a2e" alt="GitHub de Brandonrdg">
 </a>
 
 </div>
@@ -132,5 +125,10 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde Rosario, Argentina · @macu-dev</sub>
+  <sub>
+    Brandon Rodríguez · Costa Rica<br>
+    Diseño original de
+    <a href="https://github.com/macu-dev/macu-dev">Macu (@macu-dev)</a>
+    · Personalizado para este perfil
+  </sub>
 </div>
