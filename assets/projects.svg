@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="648" viewBox="0 0 1040 648" role="img" aria-labelledby="title desc">
+  <title id="title">Proyectos de Brandon Rodríguez</title>
+  <desc id="desc">Faye: asistente virtual de escritorio con C#, .NET, WPF y XAML. VyB: dispositivo portátil con RFID, Sub-GHz, pantalla OLED e infrarrojos, basado en ESP32 y .NET nanoFramework. Inventory Manager: aplicación de Windows Forms para gestionar productos con C# y SQLite. Las ilustraciones son esquemas de cada proyecto. Ping decorativo fijo en 300, con la barra pequeña roja y las otras dos grises. Perfil iniciado desde macu-dev.</desc>
+  <!-- Perfil iniciado desde https://github.com/macu-dev/macu-dev -->
+  <!-- Ilustraciones esquemáticas; no son capturas de las aplicaciones. -->
+  <rect width="1040" height="648" rx="14" fill="#050506"/>
+  <rect x="1" y="1" width="1038" height="646" rx="13" fill="none" stroke="#2d2d32"/>
+  <path d="M14 1H1026Q1039 1 1039 14V57H1V14Q1 1 14 1Z" fill="#0d0d0f"/>
+  <path d="M1 57H1039" stroke="#25252b"/>
+  <g transform="translate(12 10) scale(0.65)" role="img" aria-label="300, primera barra roja y las otras dos grises">
+    <text x="28" y="38" fill="#ff4f59" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" font-weight="bold">300</text>
+    <rect x="80" y="33" width="6" height="7" rx="1" fill="#ff4f59"/>
+    <rect x="91" y="26" width="6" height="14" rx="1" fill="#45454d"/>
+    <rect x="102" y="19" width="6" height="21" rx="1" fill="#45454d"/>
+  </g>
+  <text x="520" y="35" text-anchor="middle" fill="#b9b9c1" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">Brandonrdg@github: ~</text>
+  <text x="1010" y="35" text-anchor="end" fill="#73737e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">PROJECTS / 03</text>
+
+  <text x="32" y="101" fill="#74d982" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="15">❯ ls projects/</text>
+  <text x="30" y="151" fill="#f0f0f3" font-family="'Segoe UI','DejaVu Sans',Arial,sans-serif" font-size="34" font-weight="bold" letter-spacing="-1">Mis proyectos<tspan fill="#74d982">_</tspan></text>
+  <text x="32" y="181" fill="#81818c" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Algunos proyectos que he ido haciendo.</text>
+
+  <g fill="none" stroke="#232329">
+    <path d="M32 204H1008M32 332H1008M32 460H1008M652 220V572"/>
+  </g>
+
+  <!-- FAYE: ASISTENTE VIRTUAL -->
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="32" y="239" fill="#646470" font-size="12">01</text>
+    <text x="74" y="242" fill="#ececf0" font-size="24" font-weight="bold">Faye</text>
+    <text x="32" y="276" fill="#b9b9c1" font-size="13">Asistente virtual de escritorio.</text>
+    <text x="32" y="305" fill="#74d982" font-size="12">C# · .NET · WPF · XAML</text>
+  </g>
+  <g>
+    <rect x="690" y="220" width="304" height="94" rx="5" fill="#0b0b0e" stroke="#393942"/>
+    <path d="M690 244H994" stroke="#2e2e36"/>
+    <text x="704" y="236" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10">Faye</text>
+    <path d="M958 232H966M975 229L981 235M981 229L975 235" stroke="#666672" stroke-width="1.2"/>
+    <path d="M708 253H860Q865 253 865 258V266Q865 271 860 271H718L708 277V271Q703 271 703 266V258Q703 253 708 253Z" fill="#15151b" stroke="#363640"/>
+    <path d="M760 282H977Q982 282 982 287V295Q982 300 977 300H967L977 306V300H760Q755 300 755 295V287Q755 282 760 282Z" fill="#101c13" stroke="#36523c"/>
+    <path d="M714 262H845" stroke="#6c6c79" stroke-width="2" stroke-linecap="round"/>
+    <path d="M767 291H961" stroke="#74d982" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- VYB -->
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="32" y="367" fill="#646470" font-size="12">02</text>
+    <text x="74" y="370" fill="#ececf0" font-size="24" font-weight="bold">VyB</text>
+    <text x="32" y="404" fill="#b9b9c1" font-size="13">RFID · Sub-GHz · OLED · Infrarrojos</text>
+    <text x="32" y="433" fill="#74d982" font-size="12">ESP32 · C# · .NET nanoFramework</text>
+  </g>
+  <g fill="none" stroke="#555562" stroke-width="1.3">
+    <rect x="804" y="359" width="72" height="68" rx="5" fill="#0b0b0e"/>
+    <path d="M814 353V359M827 353V359M840 353V359M853 353V359M866 353V359M814 427V433M827 427V433M840 427V433M853 427V433M866 427V433M798 371H804M798 384H804M798 397H804M798 410H804M876 371H882M876 384H882M876 397H882M876 410H882"/>
+    <path d="M798 384H780V370H764M780 384V414H764M882 384H894V370H906M894 384V414H906" stroke="#436d4b"/>
+    <rect x="690" y="356" width="74" height="28" rx="4" fill="#0b0b0e"/>
+    <rect x="690" y="400" width="74" height="28" rx="4" fill="#0b0b0e"/>
+    <rect x="906" y="356" width="88" height="28" rx="4" fill="#0b0b0e"/>
+    <rect x="906" y="400" width="88" height="28" rx="4" fill="#0b0b0e"/>
+  </g>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" text-anchor="middle">
+    <text x="840" y="397" fill="#ececf0">ESP32</text>
+    <text x="727" y="374" fill="#92929e">OLED</text>
+    <text x="727" y="418" fill="#92929e">IR</text>
+    <text x="950" y="374" fill="#92929e">RFID</text>
+    <text x="950" y="418" fill="#92929e">Sub-GHz</text>
+  </g>
+
+  <!-- INVENTORY MANAGER -->
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="32" y="495" fill="#646470" font-size="12">03</text>
+    <text x="74" y="498" fill="#ececf0" font-size="24" font-weight="bold">Inventory Manager</text>
+    <text x="32" y="532" fill="#b9b9c1" font-size="13">Aplicación de Windows Forms para gestionar productos.</text>
+    <text x="32" y="561" fill="#74d982" font-size="12">C# · WinForms · SQLite · CRUD</text>
+  </g>
+  <g>
+    <rect x="690" y="476" width="304" height="94" rx="5" fill="#0b0b0e" stroke="#393942"/>
+    <path d="M690 500H994" stroke="#2e2e36"/>
+    <text x="704" y="492" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10">Inventory Manager</text>
+    <path d="M958 488H966M975 485L981 491M981 485L975 491" stroke="#666672" stroke-width="1.2"/>
+    <rect x="703" y="509" width="278" height="49" fill="none" stroke="#363640"/>
+    <path d="M703 525H981M703 541H981M842 509V558M906 509V558" stroke="#363640"/>
+    <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="9" fill="#b9b9c1">
+      <text x="712" y="520">Nombre</text>
+      <text x="851" y="520">Cant.</text>
+      <text x="917" y="520">Precio</text>
+    </g>
+    <path d="M712 533H801M851 533H877M917 533H957M712 550H784M851 550H877M917 550H957" stroke="#4d4d59" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <path d="M32 606H1008" stroke="#232329"/>
+  <text x="32" y="631" fill="#8f8f9a" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">Brandonrdg:~$ <tspan fill="#74d982">_</tspan></text>
+  <text x="1008" y="631" text-anchor="end" fill="#777783" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10">Base del perfil: @macu-dev</text>
+</svg>
