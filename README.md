@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/Brandonrdg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Brandon+Rodriguez%3BEstudiante+de+Ingenieria+en+Sistemas%3BC%23+%7C+.NET+%7C+Desarrollo+de+Software%3BVideojuegos+-+Tecnologia+-+Cafe" alt="Presentación animada de Brandon Rodríguez">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=000000&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Brandon+Rodriguez%3BEstudiante+de+Ingenieria+en+Sistemas%3BC%23+%7C+.NET+%7C+Desarrollo+de+Software%3BVideojuegos+-+Tecnologia+-+Cafe" alt="Presentación animada de Brandon Rodríguez">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Brandonrdg&amp;style=flat&amp;color=f78ca0&amp;label=profile+views" alt="Visitas al perfil">
