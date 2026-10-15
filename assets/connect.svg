@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="540" viewBox="0 0 1040 540" role="img" aria-labelledby="title desc">
+  <title id="title">Contacto de Brandon Rodríguez</title>
+  <desc id="desc">GitHub: github.com/Brandonrdg. LinkedIn: linkedin.com/in/brandon-rodríguez-6b2906373. Instagram: instagram.com/brandonrdg_. Panel negro con tipografía de terminal y el mismo ping decorativo de 300: barra pequeña roja, mediana y grande grises. Perfil iniciado desde macu-dev.</desc>
+  <!-- Perfil iniciado desde https://github.com/macu-dev/macu-dev -->
+  <rect width="1040" height="540" rx="14" fill="#050506"/>
+  <rect x="1" y="1" width="1038" height="538" rx="13" fill="none" stroke="#2d2d32"/>
+  <path d="M14 1H1026Q1039 1 1039 14V57H1V14Q1 1 14 1Z" fill="#0d0d0f"/>
+  <path d="M1 57H1039" stroke="#25252b"/>
+
+  <g transform="translate(12 10) scale(0.65)" role="img" aria-label="300, primera barra roja y las otras dos grises">
+    <text x="28" y="38" fill="#ff4f59" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" font-weight="bold">300</text>
+    <rect x="80" y="33" width="6" height="7" rx="1" fill="#ff4f59"/>
+    <rect x="91" y="26" width="6" height="14" rx="1" fill="#45454d"/>
+    <rect x="102" y="19" width="6" height="21" rx="1" fill="#45454d"/>
+  </g>
+  <text x="520" y="35" text-anchor="middle" fill="#b9b9c1" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12">Brandonrdg@github: ~</text>
+  <text x="1010" y="35" text-anchor="end" fill="#73737e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">CONTACT / 04</text>
+
+  <text x="32" y="101" fill="#74d982" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="15">❯ connect --socials</text>
+  <text x="30" y="151" fill="#f0f0f3" font-family="'Segoe UI','DejaVu Sans',Arial,sans-serif" font-size="34" font-weight="bold" letter-spacing="-1">Contacto<tspan fill="#74d982">_</tspan></text>
+  <text x="32" y="181" fill="#81818c" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Me encontrás en GitHub, LinkedIn e Instagram.</text>
+  <path d="M32 204H1008" stroke="#232329"/>
+
+  <a href="https://github.com/Brandonrdg" aria-label="Abrir el perfil de GitHub de Brandonrdg">
+    <g transform="translate(32 225) scale(2)" fill="#ececf0">
+      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 012-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8Z"/>
+    </g>
+    <text x="80" y="249" fill="#ececf0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="22" font-weight="bold">GitHub</text>
+    <text x="32" y="279" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">github.com/Brandonrdg</text>
+    <rect x="806" y="232" width="202" height="42" rx="5" fill="#0b140e" stroke="#38573f"/>
+    <text x="893" y="258" text-anchor="middle" fill="#bcd7c0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Ver perfil</text>
+    <path d="M968 259L980 247M970 247H980V257" fill="none" stroke="#74d982" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </a>
+
+  <g transform="translate(0 300)">
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-6b2906373/" aria-label="Visitar el LinkedIn de Brandon Rodríguez">
+    <rect x="32" y="24" width="32" height="32" rx="4" fill="#ececf0" />
+    <g fill="#050506">
+      <circle cx="40" cy="32" r="2.2" />
+      <rect x="38" y="37" width="4" height="12" />
+      <path d="M46 37H50V39C52 35 59 36 59 42V49H55V43C55 39 50 39 50 43V49H46Z" />
+    </g>
+    <text x="80" y="49" fill="#ececf0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="22" font-weight="bold">LinkedIn</text>
+    <text x="32" y="80" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">linkedin.com/in/brandon-rodríguez-6b2906373</text>
+    <rect x="806" y="32" width="202" height="42" rx="5" fill="#0b140e" stroke="#38573f" />
+    <text x="893" y="58" text-anchor="middle" fill="#bcd7c0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Ver perfil</text>
+    <path d="M968 59L980 47M970 47H980V57" fill="none" stroke="#74d982" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  </a>
+
+  </g>
+  <g transform="translate(0 400)">
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.instagram.com/brandonrdg_/" aria-label="Visitar el Instagram de brandonrdg_">
+    <g stroke="#ececf0" fill="none" stroke-width="2.5">
+      <rect x="33" y="25" width="30" height="30" rx="8" />
+      <circle cx="48" cy="40" r="7" />
+    </g>
+    <circle cx="57" cy="31" r="2" fill="#ececf0" />
+    <text x="80" y="49" fill="#ececf0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="22" font-weight="bold">Instagram</text>
+    <text x="32" y="80" fill="#92929e" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">@brandonrdg_</text>
+    <rect x="806" y="32" width="202" height="42" rx="5" fill="#0b140e" stroke="#38573f" />
+    <text x="893" y="58" text-anchor="middle" fill="#bcd7c0" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">Ver perfil</text>
+    <path d="M968 59L980 47M970 47H980V57" fill="none" stroke="#74d982" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  </a>
+
+  </g>
+
+  <path d="M32 298H1008M32 398H1008M32 498H1008" stroke="#232329"/>
+  <text x="32" y="526" fill="#8f8f9a" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">Brandonrdg:~$ <tspan fill="#74d982">_</tspan></text>
+  <text x="1008" y="526" text-anchor="end" fill="#777783" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10">Base del perfil: @macu-dev</text>
+</svg>
