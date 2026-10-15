@@ -26,7 +26,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-brn.svg" width="960" alt="Terminal city-pop de presentación">
+  <img src="assets/whoami-gaming.svg" width="960" alt="Terminal city-pop de presentación">
 </p>
 
 <br>
