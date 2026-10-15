@@ -57,11 +57,13 @@
 <!-- SOCIALS -->
 ## `$ connect --socials`
 
-<div align="center">
-
-<a href="https://github.com/Brandonrdg">
-  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&amp;logo=github&amp;logoColor=1a1a2e" alt="GitHub de Brandonrdg">
-</a>
+<p align="center">
+  <a href="https://github.com/Brandonrdg">
+    <img src="assets/connect.svg"
+         width="960"
+         alt="Visitar el GitHub de Brandon Rodríguez">
+  </a>
+</p>
 
 </div>
 
