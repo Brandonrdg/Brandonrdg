@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="510" viewBox="0 0 960 510" role="img" aria-labelledby="title desc">
+  <title id="title">Brandon Rodríguez — Bitácora de desarrollo</title>
+  <desc id="desc">Estudiante de Ingeniería en Sistemas en Costa Rica. Software, hardware y videojuegos: FayeOS, VyB y proyectos con Godot. Perfil iniciado desde el repositorio de macu-dev, con una nueva tarjeta de presentación.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#293332" stroke-width=".6"/></pattern>
+    <linearGradient id="wash" x2="1" y2="1"><stop stop-color="#172825"/><stop offset="1" stop-color="#111716"/></linearGradient>
+  </defs>
+  <rect width="960" height="510" rx="20" fill="#101615"/>
+  <rect x="1" y="1" width="958" height="508" rx="19" fill="none" stroke="#36423d"/>
+  <g font-family="'DejaVu Sans',Arial,sans-serif">
+    <rect x="30" y="27" width="30" height="30" rx="7" fill="#e6aa76"/>
+    <text x="45" y="47" text-anchor="middle" fill="#141a18" font-size="13" font-weight="bold">BR</text>
+    <text x="73" y="47" fill="#dce3d8" font-size="11" letter-spacing="2">BITÁCORA DE DESARROLLO</text>
+    <text x="930" y="47" text-anchor="end" fill="#a7b7ac" font-size="11" letter-spacing="1">COSTA RICA / @Brandonrdg</text>
+    <path d="M30 75H930" stroke="#35423b"/>
+
+    <text x="34" y="112" fill="#a4c6a7" font-size="11" letter-spacing="3">APRENDIENDO A CONSTRUIR IDEAS</text>
+    <text x="30" y="177" fill="#f0eee5" font-size="57" font-weight="bold" letter-spacing="-2">Brandon</text>
+    <text x="30" y="239" fill="#f0eee5" font-size="57" font-weight="bold" letter-spacing="-2">Rodríguez<tspan fill="#e6aa76">.</tspan></text>
+    <text x="34" y="275" fill="#c1cdc1" font-size="16">Estudiante de Ingeniería en Sistemas</text>
+    <text x="34" y="303" fill="#8fa397" font-size="14">Software, hardware y mundos por crear.</text>
+
+    <rect x="560" y="96" width="370" height="224" rx="14" fill="url(#wash)" stroke="#35483e"/>
+    <rect x="560" y="96" width="370" height="224" rx="14" fill="url(#grid)"/>
+    <text x="580" y="121" fill="#8fa397" font-size="10" letter-spacing="2">MESA DE TRABAJO / 01</text>
+    <g fill="none" stroke="#709b7c" stroke-width="2">
+      <path d="M745 167V149H605V180M705 209H612V254M785 209H884V254M745 249V277"/>
+      <path d="M715 162V169M730 162V169M745 162V169M760 162V169M775 162V169M715 249V256M730 249V256M760 249V256M775 249V256M698 179H705M698 194H705M698 224H705M698 239H705M785 179H792M785 194H792M785 224H792M785 239H792"/>
+    </g>
+    <rect x="705" y="169" width="80" height="80" rx="10" fill="#203a2c" stroke="#a4c6a7" stroke-width="1.5"/>
+    <text x="745" y="218" text-anchor="middle" fill="#ebede2" font-size="27" font-weight="bold">BR</text>
+    <rect x="579" y="180" width="67" height="29" rx="6" fill="#17211c" stroke="#68846e"/>
+    <text x="612" y="199" text-anchor="middle" fill="#c9d9c8" font-size="11">C#/.NET</text>
+    <rect x="579" y="254" width="67" height="29" rx="6" fill="#17211c" stroke="#68846e"/>
+    <text x="612" y="273" text-anchor="middle" fill="#c9d9c8" font-size="11">ESP32</text>
+    <rect x="851" y="254" width="61" height="29" rx="6" fill="#17211c" stroke="#68846e"/>
+    <text x="881" y="273" text-anchor="middle" fill="#c9d9c8" font-size="11">Godot</text>
+    <circle cx="745" cy="280" r="4" fill="#e6aa76"/>
+    <text x="745" y="304" text-anchor="middle" fill="#9db3a1" font-size="10" letter-spacing="2">IDEA → CÓDIGO → PROYECTO</text>
+
+    <g>
+      <rect x="30" y="348" width="290" height="108" rx="10" fill="#18211d" stroke="#35423b"/>
+      <text x="48" y="374" fill="#e6aa76" font-size="10" letter-spacing="2">01 / SOFTWARE</text>
+      <text x="48" y="403" fill="#eeeee3" font-size="22" font-weight="bold">FayeOS</text>
+      <text x="48" y="431" fill="#a7b9ac" font-size="12">Interfaces y lógica con C# / WPF</text>
+
+      <rect x="335" y="348" width="290" height="108" rx="10" fill="#18211d" stroke="#35423b"/>
+      <text x="353" y="374" fill="#e6aa76" font-size="10" letter-spacing="2">02 / HARDWARE</text>
+      <text x="353" y="403" fill="#eeeee3" font-size="22" font-weight="bold">VyB</text>
+      <text x="353" y="431" fill="#a7b9ac" font-size="12">Dispositivo portátil con ESP32</text>
+
+      <rect x="640" y="348" width="290" height="108" rx="10" fill="#18211d" stroke="#35423b"/>
+      <text x="658" y="374" fill="#e6aa76" font-size="10" letter-spacing="2">03 / GAMEDEV</text>
+      <text x="658" y="403" fill="#eeeee3" font-size="22" font-weight="bold">Mundos en 2D</text>
+      <text x="658" y="431" fill="#a7b9ac" font-size="12">Aprendiendo con Godot y GDScript</text>
+    </g>
+    <text x="30" y="487" fill="#9bb29f" font-size="10" letter-spacing="1.4">APRENDER. CONSTRUIR. ITERAR.</text>
+    <text x="930" y="487" text-anchor="end" fill="#8fa397" font-size="10">Base del perfil: @macu-dev · Tarjeta rediseñada</text>
+  </g>
+</svg>
